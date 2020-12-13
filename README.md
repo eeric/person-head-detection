@@ -9,7 +9,7 @@ https://github.com/PeterH0323/Smart_Construction
 ## make sample
 ### person detection: yolov5
 ### head detection: Smart_Construction
-### different class label to merge
+### merge different class label
 # dataset
 ## SHWD
 https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset
