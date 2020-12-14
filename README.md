@@ -1,7 +1,7 @@
 # person-head-detection
-detection head and person meanwhile
+detecting head and person meanwhile
 # training pipeline
-### yolov5
+### yolov5 
 https://github.com/ultralytics/yolov5
 ### nanodet
 https://github.com/RangiLyu/nanodet
