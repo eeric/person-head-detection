@@ -4,7 +4,7 @@ detection head and person meanwhile
 ### yolov5
 https://github.com/ultralytics/yolov5
 ### nanodet
-
+https://github.com/RangiLyu/nanodet
 # training sample
 see Smart_Construction
 https://github.com/PeterH0323/Smart_Construction
