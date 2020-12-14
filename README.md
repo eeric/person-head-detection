@@ -11,6 +11,7 @@ https://github.com/RangiLyu/nanodet
 ### head detection: Smart_Construction
 https://github.com/PeterH0323/Smart_Construction
 ### merge different class label
+https://github.com/PeterH0323/Smart_Construction/blob/master/data/gen_data/merge_data.py
 # dataset
 ## SHWD
 https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset
