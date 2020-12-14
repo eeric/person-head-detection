@@ -10,7 +10,7 @@ https://github.com/RangiLyu/nanodet
 ### person detection: yolov5
 ### head detection: Smart_Construction
 https://github.com/PeterH0323/Smart_Construction
-### txt lable format: class x_center y_center width height
+### yolo lable format: class x_center y_center width height
 ### nanodet label format: yolo->voc->coco
 https://github.com/eeric/yolo2voc2coco
 ### merge different class label
